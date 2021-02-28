@@ -1,0 +1,7 @@
+
+1- creation des packages(dao, business,presentation,models)
+2- creation des classes models à partir de votre conception UML
+3- dao: pour chaque model vous devez creer une interface +
+ o moin une implementation
+
+4-business: une interface + une implementation
